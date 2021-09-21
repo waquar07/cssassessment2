@@ -66,18 +66,18 @@ body{
         padding: 68px;
     } */
     .thali{
-        padding: 20px;
+        padding-top: 52px;
+        /* padding: 22px; */
         font-weight: bolder;
-        font-weight: 900;
         text-align: center;
         text-decoration: underline;
         font-style: italic;
         border: grey solid 4px;
-        border-radius: 50%;
-        height: 237px;
-        width: 247px;
+        border-radius: 157px;
+        height: 216px;
+        width: 266px;
         background: cyan;
-        margin: 10px;
+        margin: 84px;
         position: relative;
     }
     .forms{
